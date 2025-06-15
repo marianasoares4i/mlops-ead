@@ -1,2 +1,2 @@
 # mlops-ead
-Repositório para a disciplina Cultra e Práticas DataOps e MlOps da pós graduação
+Repositório para a disciplina Cultura e Práticas DataOps e MlOps da pós graduação
