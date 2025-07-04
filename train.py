@@ -163,4 +163,4 @@ if __name__ == "__main__":
     X_train, X_test, y_train, y_test = process_data(X, y)
     model = create_model(X)
     config_mlflow()
-    train_model(model, X_train, y_train)
+    train_model(model, X_train, y_train, is_train=False)
